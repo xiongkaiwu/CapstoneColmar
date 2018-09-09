@@ -8,9 +8,11 @@ body p{
   line-height: 1.5;
   letter-spacing: .075rem;
 }
+
 body h2 {
   font-size: 2rem;
 }
+
 body h1 {
   font-size: 3.8rem;
   font-weight: 900;
